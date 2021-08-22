@@ -358,6 +358,10 @@ code, pre{
 
 /* Mobile */
 @media(max-width: 500px){
+    .showcase-form{
+        width:300px;
+    }
+
     .navbar {
         height:110px;
     }
